@@ -1,0 +1,24 @@
+{
+  "name": "serverless-authorization-iam-plugin",
+  "version": "0.0.1",
+  "description": "Plugin for Serverless that sets each endpoint to require IAM authorization",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kkozmic/serverless-authorization-iam-plugin.git"
+  },
+  "keywords": [
+    "serverless plugin",
+    "api gateway",
+    "serverless aws iam plugin"
+  ],
+  "author": "Krzysztof Kozmic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kkozmic/serverless-authorization-iam-plugin/issues"
+  },
+  "homepage": "https://github.com/kkozmic/serverless-authorization-iam-plugin#readme"
+}
